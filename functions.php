@@ -10,7 +10,7 @@
 	define('WP_THEME_KEY', 'goodlayers');  //
 	/////////////////////////////////////////
 	
-	define('THEME_FULL_NAME', 'Simple Article');
+	define('THEME_FULL_NAME', 'Kitchenrai');
 	define('THEME_SHORT_NAME', 'spat');
 	define('THEME_SLUG', 'simplearticle');
 	
