@@ -144,7 +144,7 @@ html body{ min-width: 300px; }
 
 /*--- mobile portrait style ---*/
 @media only screen and (max-width: 419px) {
-	body .container{ max-width: 300px; }
+	body .container{ max-width: 400px; }
 	body .body-wrapper.gdlr-boxed-style { max-width: 340px; }
 
 	.dl-menuwrapper .dl-menu, .dl-menuwrapper > .dl-submenu{ width: 270px; }
